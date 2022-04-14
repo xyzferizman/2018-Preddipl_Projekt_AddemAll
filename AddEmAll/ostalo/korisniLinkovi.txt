@@ -1,0 +1,17 @@
+Link na projekt dokumentaciju:
+https://docs.google.com/document/d/1UkTnJEGVJmbsK6vcUQDJGXZNmtFtWIrHgW90sTSUEWw/edit	-Projektna dokumentacija
+https://docs.google.com/document/d/19JazWLZToTsH7d8zjvaKGRB3oC5C6jWje8Kfs4tssvw/edit	-Tehnicka dokumentacija
+
+
+Tutoijali:
+https://unity3d.com/learn/tutorials
+https://unity3d.com/learn/tutorials/topics/scripting/intro-and-setup?playlist=17117
+
+https://docs.unity3d.com/Manual/UnityBasics.html
+https://github.com/PokemonUnity/PokemonUnity
+https://github.com/StormBurpee/Unity_Pokemon/  +  https://www.youtube.com/user/BrainStormGames13/videos
+
+http://www.folio3.com/blog/creating-dynamic-scrollable-lists-with-new-unity-canvas-ui/ /*inkorporirano u projekt
+http://www.c-sharpcorner.com/uploadfile/mahesh/openfiledialog-in-C-Sharp/	/*napušteno, otvaranje file explorera za loadanje filea
+
+http://www.fer.unizg.hr/predmet/ordi/materijali
